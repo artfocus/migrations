@@ -3,6 +3,7 @@
 	"description": "Database migrations runner",
 	"type": "library",
 	"license": "BSD-3-Clause",
+	"abandoned": "etten/migrations",
 	"require": {
 		"php": ">=5.6"
 	},

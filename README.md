@@ -1,5 +1,11 @@
 [![Build Status](https://travis-ci.org/artfocus/migrations.svg?branch=master)](https://travis-ci.org/artfocus/migrations)
 
+```
+ABANDONED
+This package is not maintained anymore.
+I suggest use etten/migrations instead.
+```
+
 Artfocus\Migrations
 ==================
 
